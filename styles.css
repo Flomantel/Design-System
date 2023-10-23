@@ -1,0 +1,37 @@
+section {
+    border: 1px solid black;
+    padding: 1vw;
+    margin: 2vh;
+}
+
+.guide {
+    margin: 2px;
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.guide-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.content {
+    width: 20vw;
+    height: auto;
+    text-align: center;
+}
+
+.heading {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic; 
+}
